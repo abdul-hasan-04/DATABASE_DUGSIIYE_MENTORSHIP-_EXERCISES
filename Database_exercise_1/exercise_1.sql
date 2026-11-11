@@ -1,0 +1,5 @@
+SELECT * FROM students WHERE name LIKE '%d'
+SELECT * FROM students WHERE email LIKE '%@gmail.com'
+SELECT * FROM students WHERE email LIKE '%o%'
+SELECT * FROM students WHERE name LIKE '____'
+SELECT * FROM students WHERE name LIKE '%an%'
